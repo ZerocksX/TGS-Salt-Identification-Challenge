@@ -1,0 +1,12 @@
+Algorithm:
+ windowed blur detection
+  - blur rate for each pixel
+  - averaging score from windows
+ thresholds
+  - lower and upper bound curves
+  - depends on the depth
+  - machine learning
+
+Problems:
+ How to define curves
+  - idea??
